@@ -1,446 +1,302 @@
 {
   "South Africa": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Ghana": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Mali": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Burkina Faso": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Tanzania": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Côte d'Ivoire": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Zimbabwe": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Democratic Republic of the Congo": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Guinea": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Sudan": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Russia": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   },
   "Australia": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
     }
   }
 }

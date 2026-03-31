@@ -3,7 +3,7 @@
  * Defines the grouping of charts for different analytical perspectives
  */
 
-export type ChartGroupId = 'market-analysis' | 'coherent-opportunity'
+export type ChartGroupId = 'market-analysis' | 'coherent-opportunity' | 'customer-intelligence' | 'distributor-intelligence' | 'import-analysis' | 'import-pricing'
 
 export interface ChartGroup {
   id: ChartGroupId
@@ -16,17 +16,38 @@ export interface ChartGroup {
 export const CHART_GROUPS: ChartGroup[] = [
   {
     id: 'market-analysis',
-    label: 'Market Analysis',
+    label: 'Demand Analysis',
     description: 'Core market metrics and trends',
     charts: ['grouped-bar', 'multi-line', 'heatmap', 'comparison-table', 'waterfall'],
     icon: '📊'
   },
+{
+    id: 'customer-intelligence',
+    label: 'Customer Intelligence',
+    description: 'Key customer profiles and procurement details',
+    charts: ['customer-intel-table'],
+    icon: '👥'
+  },
   {
-    id: 'coherent-opportunity',
-    label: 'Coherent Opportunity Matrix',
-    description: 'Opportunity identification and analysis',
-    charts: ['bubble'],
-    icon: '🎯'
+    id: 'distributor-intelligence',
+    label: 'Distributor Intelligence',
+    description: 'Key distributor profiles and product portfolios',
+    charts: ['distributor-intel-table'],
+    icon: '🏭'
+  },
+  {
+    id: 'import-analysis',
+    label: 'Import Analysis',
+    description: 'Imports by regions and supplying countries',
+    charts: ['import-analysis-table'],
+    icon: '📦'
+  },
+  {
+    id: 'import-pricing',
+    label: 'Import Pricing',
+    description: 'Import pricing by regions and supplying countries',
+    charts: ['import-pricing-table'],
+    icon: '💰'
   }
 ]
 

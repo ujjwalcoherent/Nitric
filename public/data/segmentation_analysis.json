@@ -1,62 +1,445 @@
 {
-  "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
-    },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
-    },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
-    },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
-    },
-    "By Region": {
-      "North America": {
-        "U.S.": {},
-        "Canada": {}
+  "South Africa": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
       },
-      "Europe": {
-        "U.K.": {},
-        "Germany": {},
-        "Italy": {},
-        "France": {},
-        "Spain": {},
-        "Russia": {},
-        "Rest of Europe": {}
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
       },
-      "Asia Pacific": {
-        "China": {},
-        "India": {},
-        "Japan": {},
-        "South Korea": {},
-        "ASEAN": {},
-        "Australia": {},
-        "Rest of Asia Pacific": {}
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Ghana": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
       },
-      "Latin America": {
-        "Brazil": {},
-        "Argentina": {},
-        "Mexico": {},
-        "Rest of Latin America": {}
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
       },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Mali": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Burkina Faso": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Tanzania": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Côte d'Ivoire": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Zimbabwe": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Democratic Republic of the Congo": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Guinea": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Sudan": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Russia": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
+      }
+    }
+  },
+  "Australia": {
+    "By Raw Material Source": {
+      "Coal-Based Activated Carbon": {
+        "Bituminous Coal-Based": {},
+        "Lignite/Sub-Bituminous Coal-Based": {},
+        "Anthracite Coal-Based": {}
+      },
+      "Coconut Shell-Based Activated Carbon": {},
+      "Wood-Based Activated Carbon": {},
+      "Peat-Based Activated Carbon": {},
+      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    },
+    "By Product Form": {
+      "Powdered Activated Carbon (PAC)": {},
+      "Granular Activated Carbon (GAC)": {},
+      "Extruded / Pelletized Activated Carbon (EAC)": {},
+      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    },
+    "By Supply Type": {
+      "Virgin Activated Carbon": {},
+      "Reactivated / Regenerated Activated Carbon": {}
+    },
+    "By Application": {
+      "Gold Mining": {
+        "Carbon-in-Leach (CIL)": {},
+        "Carbon-in-Pulp (CIP)": {},
+        "Carbon-in-Column (CIC)": {},
+        "Others": {}
+      },
+      "Water Treatment": {
+        "Potable / Drinking Water Treatment": {},
+        "Industrial Water Treatment": {},
+        "Wastewater / Effluent Treatment": {},
+        "Mine Water Treatment": {}
       }
     }
   }

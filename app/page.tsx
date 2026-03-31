@@ -15,6 +15,10 @@ import { CompetitiveIntelligence } from '@/components/charts/CompetitiveIntellig
 import CustomerIntelligenceHeatmap from '@/components/charts/CustomerIntelligenceHeatmap'
 import DistributorsIntelligence from '@/components/charts/DistributorsIntelligenceTable'
 import CustomerIntelligenceDatabase from '@/components/charts/CustomerIntelligenceDatabase'
+import CustomerIntelTable from '@/components/charts/CustomerIntelTable'
+import DistributorIntelTable from '@/components/charts/DistributorIntelTable'
+import ImportAnalysisTable from '@/components/charts/ImportAnalysisTable'
+import ImportPricingTable from '@/components/charts/ImportPricingTable'
 import { InsightsPanel } from '@/components/InsightsPanel'
 import { FilterPresets } from '@/components/filters/FilterPresets'
 import { ChartGroupSelector } from '@/components/filters/ChartGroupSelector'
@@ -31,7 +35,7 @@ export default function DashboardPage() {
   const { setData, setLoading, setError, data, isLoading, error, filters, selectedChartGroup, dashboardName } = useDashboardStore()
   const [mounted, setMounted] = useState(false)
   const [hasCheckedStore, setHasCheckedStore] = useState(false)
-  const [activeTab, setActiveTab] = useState<'bar' | 'line' | 'heatmap' | 'table' | 'waterfall' | 'bubble' | 'competitive-intelligence' | 'customer-intelligence' | 'customer-intelligence-database'>('bar')
+  const [activeTab, setActiveTab] = useState<'bar' | 'line' | 'heatmap' | 'table' | 'waterfall' | 'bubble' | 'competitive-intelligence' | 'customer-intelligence' | 'customer-intelligence-database' | 'customer-intel-table' | 'distributor-intel-table' | 'import-analysis-table' | 'import-pricing-table'>('bar')
   const [showInsights, setShowInsights] = useState(false)
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
   const [viewMode, setViewMode] = useState<'tabs' | 'vertical'>('tabs')
@@ -55,7 +59,11 @@ export default function DashboardPage() {
     'bubble': 'bubble',
     'competitive-intelligence': 'competitive-intelligence',
     'customer-intelligence': 'customer-intelligence',
-    'customer-intelligence-database': 'customer-intelligence-database'
+    'customer-intelligence-database': 'customer-intelligence-database',
+    'customer-intel-table': 'customer-intel-table',
+    'distributor-intel-table': 'distributor-intel-table',
+    'import-analysis-table': 'import-analysis-table',
+    'import-pricing-table': 'import-pricing-table'
   }
 
   // Auto-switch to first available tab when chart group changes
@@ -204,7 +212,7 @@ export default function DashboardPage() {
                 Coherent Dashboard
               </h1>
               <h2 className="text-sm text-black">
-                {dashboardName || 'Global Normothermic Machine Perfusion Market'}
+                {dashboardName || 'Activated Carbon Market Assessment'}
               </h2>
             </div>
           </div>
@@ -398,6 +406,54 @@ export default function DashboardPage() {
                             👤 Customer Intelligence
                           </button>
                         )}
+                        {isChartVisible('customer-intel-table') && (
+                          <button
+                            onClick={() => setActiveTab('customer-intel-table')}
+                            className={`px-6 py-3 text-sm font-medium border-b-2 transition-colors ${
+                              activeTab === 'customer-intel-table'
+                                ? 'border-blue-500 text-blue-600'
+                                : 'border-transparent text-black hover:text-black hover:border-gray-300'
+                            }`}
+                          >
+                            👥 Customer Intelligence
+                          </button>
+                        )}
+                        {isChartVisible('distributor-intel-table') && (
+                          <button
+                            onClick={() => setActiveTab('distributor-intel-table')}
+                            className={`px-6 py-3 text-sm font-medium border-b-2 transition-colors ${
+                              activeTab === 'distributor-intel-table'
+                                ? 'border-blue-500 text-blue-600'
+                                : 'border-transparent text-black hover:text-black hover:border-gray-300'
+                            }`}
+                          >
+                            🏭 Distributor Intelligence
+                          </button>
+                        )}
+                        {isChartVisible('import-analysis-table') && (
+                          <button
+                            onClick={() => setActiveTab('import-analysis-table')}
+                            className={`px-6 py-3 text-sm font-medium border-b-2 transition-colors ${
+                              activeTab === 'import-analysis-table'
+                                ? 'border-blue-500 text-blue-600'
+                                : 'border-transparent text-black hover:text-black hover:border-gray-300'
+                            }`}
+                          >
+                            📦 Import Analysis
+                          </button>
+                        )}
+                        {isChartVisible('import-pricing-table') && (
+                          <button
+                            onClick={() => setActiveTab('import-pricing-table')}
+                            className={`px-6 py-3 text-sm font-medium border-b-2 transition-colors ${
+                              activeTab === 'import-pricing-table'
+                                ? 'border-blue-500 text-blue-600'
+                                : 'border-transparent text-black hover:text-black hover:border-gray-300'
+                            }`}
+                          >
+                            💰 Import Pricing
+                          </button>
+                        )}
                       </>
                     )}
                   </nav>
@@ -513,6 +569,42 @@ export default function DashboardPage() {
                         />
                       </div>
                     )}
+
+                    {activeTab === 'customer-intel-table' && (
+                      <div id="customer-intel-table">
+                        <CustomerIntelTable
+                          title="Customer Intelligence (10-12 Customers)"
+                          height={600}
+                        />
+                      </div>
+                    )}
+
+                    {activeTab === 'distributor-intel-table' && (
+                      <div id="distributor-intel-table">
+                        <DistributorIntelTable
+                          title="Distributor Intelligence (10-12 Distributors)"
+                          height={600}
+                        />
+                      </div>
+                    )}
+
+                    {activeTab === 'import-analysis-table' && (
+                      <div id="import-analysis-table">
+                        <ImportAnalysisTable
+                          title="Imports Analysis, by Regions / Supplying Countries (2022-2025)"
+                          height={600}
+                        />
+                      </div>
+                    )}
+
+                    {activeTab === 'import-pricing-table' && (
+                      <div id="import-pricing-table">
+                        <ImportPricingTable
+                          title="Import Pricing (US$ / Ton), by Regions / Supplying Countries (2022-2025)"
+                          height={600}
+                        />
+                      </div>
+                    )}
                   </>
                 ) : (
                   <div className="space-y-8">
@@ -608,6 +700,46 @@ export default function DashboardPage() {
                         <h3 className="text-lg font-semibold text-black mb-4">👤 Customer Intelligence Database</h3>
                         <CustomerIntelligenceDatabase
                           title="Customer Intelligence Database"
+                          height={600}
+                        />
+                      </div>
+                    )}
+
+                    {isChartVisible('customer-intel-table') && (
+                      <div className="border-b pb-8">
+                        <h3 className="text-lg font-semibold text-black mb-4">👥 Customer Intelligence</h3>
+                        <CustomerIntelTable
+                          title="Customer Intelligence (10-12 Customers)"
+                          height={600}
+                        />
+                      </div>
+                    )}
+
+                    {isChartVisible('distributor-intel-table') && (
+                      <div className="border-b pb-8">
+                        <h3 className="text-lg font-semibold text-black mb-4">🏭 Distributor Intelligence</h3>
+                        <DistributorIntelTable
+                          title="Distributor Intelligence (10-12 Distributors)"
+                          height={600}
+                        />
+                      </div>
+                    )}
+
+                    {isChartVisible('import-analysis-table') && (
+                      <div className="border-b pb-8">
+                        <h3 className="text-lg font-semibold text-black mb-4">📦 Import Analysis</h3>
+                        <ImportAnalysisTable
+                          title="Imports Analysis, by Regions / Supplying Countries (2022-2025)"
+                          height={600}
+                        />
+                      </div>
+                    )}
+
+                    {isChartVisible('import-pricing-table') && (
+                      <div className="border-b pb-8">
+                        <h3 className="text-lg font-semibold text-black mb-4">💰 Import Pricing</h3>
+                        <ImportPricingTable
+                          title="Import Pricing (US$ / Ton), by Regions / Supplying Countries (2022-2025)"
                           height={600}
                         />
                       </div>

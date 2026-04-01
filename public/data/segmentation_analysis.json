@@ -298,5 +298,30 @@
       "Gold Refineries / Precious Metals Refiners": {},
       "Metallurgical Testing Service Providers": {}
     }
+  },
+  "Mauritania": {
+    "By Product Type / Concentration": {
+      "Dilute Nitric Acid": {},
+      "Concentrated Nitric Acid": {},
+      "Fuming Nitric Acid": {}
+    },
+    "By Grade": {
+      "Reagent / Laboratory Grade": {},
+      "Technical / Industrial Grade": {},
+      "High-Purity Grade": {}
+    },
+    "By Stage of Use": {
+      "Exploration & Resource Evaluation": {},
+      "Mine Site Laboratory / Grade Control": {},
+      "Metallurgical Testing": {},
+      "Refining & Final Precious Metal Separation": {}
+    },
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mine Assay Laboratories": {},
+      "Independent Geochemical / Analytical Laboratories": {},
+      "Gold Refineries / Precious Metals Refiners": {},
+      "Metallurgical Testing Service Providers": {}
+    }
   }
 }
